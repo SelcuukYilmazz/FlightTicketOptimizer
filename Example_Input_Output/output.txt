@@ -1,0 +1,31 @@
+command : listAll	Istanbul->Athens	30/04/2020
+KL0135	IST->ATH	03:05/135
+TK8739	IST->SOF||LH7366	SOF->MAD||LH0893	MAD->ATH	07:25/455
+
+
+command : listProper	Istanbul->Athens	30/04/2020
+KL0135	IST->ATH	03:05/135
+
+
+command : listCheapest	Istanbul->Athens	30/04/2020
+KL0135	IST->ATH	03:05/135
+
+
+command : listQuickest	Istanbul->Athens	30/04/2020
+KL0135	IST->ATH	03:05/135
+
+
+command : listCheaper	Istanbul->Athens	30/04/2020	120
+No suitable flight plan is found
+
+
+command : listQuicker	Istanbul->Athens	30/04/2020	01/05/2020 09:00 Fri
+KL0135	IST->ATH	03:05/135
+
+
+command : listExcluding	Istanbul->Athens	30/04/2020	LH
+KL0135	IST->ATH	03:05/135
+
+
+command : listOnlyFrom	Istanbul->Athens	30/04/2020	TK
+No suitable flight plan is found

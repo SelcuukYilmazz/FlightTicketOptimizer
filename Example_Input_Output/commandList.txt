@@ -1,0 +1,8 @@
+listAll	Istanbul->Athens	30/04/2020
+listProper	Istanbul->Athens	30/04/2020
+listCheapest	Istanbul->Athens	30/04/2020
+listQuickest	Istanbul->Athens	30/04/2020
+listCheaper	Istanbul->Athens	30/04/2020	120
+listQuicker	Istanbul->Athens	30/04/2020	01/05/2020 09:00 Fri
+listExcluding	Istanbul->Athens	30/04/2020	LH
+listOnlyFrom	Istanbul->Athens	30/04/2020	TK

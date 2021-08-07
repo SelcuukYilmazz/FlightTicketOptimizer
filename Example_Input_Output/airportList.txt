@@ -1,0 +1,4 @@
+Sofia	SOF
+Athens	ATH
+Madrid	MAD
+Istanbul	IST	SAW
